@@ -1,2 +1,2 @@
-# react-native
-
+#react-native
+主要的
