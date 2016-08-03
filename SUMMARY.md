@@ -34,12 +34,12 @@
     * [DOUAudioStream](douaudiostream.md)
 * [iOS进阶](chapter11.md)
     * [run time](runtime.md)
-    * reactive cocoa
+    * [reactive cocoa](reactive-cocoa.md)
 * [开源项目](chapter7.md)
-    * 电商类
+    * [电商类](电商类.md)
 * [swift](chapter8.md)
-    * 基本类型
-    * 闭包
-    * 对象
+    * [基本类型](基本类型.md)
+    * [闭包](闭包.md)
+    * [对象](对象.md)
 * [react-native](chapter10.md)
 
