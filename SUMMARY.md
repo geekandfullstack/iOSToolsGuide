@@ -7,8 +7,8 @@
 * [工具使用](chapter5.md)
 * [框架使用](chapter6.md)
 * [开源项目](chapter7.md)
-* [swift](chapter8.md)
 * [混合编程](chapter9.md)
-* [react-native](chapter10.md)
+* [swift](chapter8.md)
 * [iOS进阶](chapter11.md)
+* [react-native](chapter10.md)
 
