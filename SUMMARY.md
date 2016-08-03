@@ -8,7 +8,7 @@
 * [工具使用](chapter5.md)
 * [框架使用](chapter6.md)
 * [开源项目](chapter7.md)
-* [混合编程](chapter8.md)
+* [swift](chapter8.md)
 * [chapter9](chapter9.md)
 * [chapter10](chapter10.md)
 
