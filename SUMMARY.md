@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [iOS学习图谱](chapter1.md)
 * [常用代码块整理](chapter2.md)
 * [优秀博客介绍](chapter3.md)
