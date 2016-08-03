@@ -37,7 +37,7 @@
     * [reactive cocoa](reactive-cocoa.md)
 * [开源项目](开源项目.md)
     * [电商类](电商类.md)
-* [swift](chapter8.md)
+* [swift](swift.md)
     * [基本类型](基本类型.md)
     * [闭包](闭包.md)
     * [对象](对象.md)
