@@ -41,5 +41,5 @@
     * [基本类型](基本类型.md)
     * [闭包](闭包.md)
     * [对象](对象.md)
-* [react-native](chapter10.md)
+* [react-native](react-native.md)
 
