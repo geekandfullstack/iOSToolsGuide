@@ -6,4 +6,5 @@
 * [chapter3](chapter3.md)
 * [chapter4](chapter4.md)
 * [chapter5](chapter5.md)
+* chapter6
 
