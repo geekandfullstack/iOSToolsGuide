@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
     * [前言](前言.md)
-* [iOS学习图谱](chapter1.md)
+* [iOS学习图谱](iOS知识图谱.md)
     * [学习iOS需要哪些知识？](学习ios.md)
     * [C语言学习](c语言学习.md)
     * [OC学习](oc学习.md)
