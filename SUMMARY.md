@@ -32,7 +32,7 @@
     * [AFNetworking](afnetworking.md)
     * [SDWebImage](sdwebimage.md)
     * [DOUAudioStream](douaudiostream.md)
-* [iOS进阶](chapter11.md)
+* [iOS进阶](iOS进阶.md)
     * [run time](runtime.md)
     * [reactive cocoa](reactive-cocoa.md)
 * [开源项目](chapter7.md)
