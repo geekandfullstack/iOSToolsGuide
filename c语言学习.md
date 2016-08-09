@@ -36,7 +36,44 @@ hello world, i am c language!
 c程序语句一般由五个部分组成
 分号、注释、标识符、关键字、空格
 
+### tips:关键字
+auto、else、long、switch、break、enum、register、typedef、case、extern、return、union、char、float、short、unsigned、const、for、signed、void、continue、goto、sizeof、volatile、default、if、static、while、do、int、struct、_Packed、double
+
+
+
 ## 三、C语言数据类型
 ###1、基本数据类型
 * 整型
 char、unsigned char 、signed char 、int 、unsigned int 、short、unsigned short、long 、unsigned long
+
+* 浮点型
+float、double、long double
+
+* void 类型
+
+
+## 四、C语言变量
+
+### 1、声明
+```c
+type variable_list ;
+```
+### 2、定义如下 
+```c
+type variable_list = value;
+
+```
+### 3、C 中的左值（Lvalues）和右值（Rvalues）
+
+C 中有两种类型的表达式：
+
+左值（lvalue）：指向内存位置的表达式被称为左值（lvalue）表达式。左值可以出现在赋值号的左边或右边。
+
+右值（rvalue）：术语右值（rvalue）指的是存储在内存中某些地址的数值。右值是不能对其进行赋值的表达式，也就是说，右值可以出现在赋值号的右边，但不能出现在赋值号的左边。
+
+变量是左值，因此可以出现在赋值号的左边。数值型的字面值是右值，因此不能被赋值，不能出现在赋值号的左边。下面是一个有效的语句：
+
+## 五、C语言常量
+###1、定义常量
+ *使用#define 定义
+ *使用const关键字定义
