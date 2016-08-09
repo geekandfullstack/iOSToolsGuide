@@ -1,3 +1,9 @@
 {
-
+    "plugins": [
+        "code-highlighter",
+        "emphasize",
+        "highlight2",
+        "highlightt",
+        "include-highlight"
+    ]
 }
